@@ -13,7 +13,6 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("SNAKE");
 
-
         frame.pack(); //ask it
         frame.setLocationRelativeTo(null); // to appear the frame in the middle
         frame.setVisible(true);
